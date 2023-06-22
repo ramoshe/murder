@@ -14,8 +14,6 @@ You arrived earlier today to see Elizabeth Killingsworth, a recent widow who, du
 
 Five others have joined you in the hall. Elizabeth, however, is not present. The strangers around you are looking at you with interest. You help yourself to a glass of wine from the hall table and introduce yourself.
 
-![Hello, world](/content/images/hello.jpg)
-
 ---
 
 <script src="//unpkg.com/alpinejs" defer></script>
@@ -23,6 +21,6 @@ Five others have joined you in the hall. Elizabeth, however, is not present. The
 <div x-data="{ open: false }">
     <button class="font-bold py-2 px-6 rounded" @click="open = true" style="border:1px solid gray;">Click to reveal Secret Clue when directed</button>
     <p x-show="open">
-        <img src="/content/images/hello.jpg" />
+        <img src="/content/images/clue_one.png" />
     </p>
 </div>

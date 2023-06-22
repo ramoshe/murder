@@ -19,6 +19,6 @@ You wonder about the people around you and the circumstances that brought each p
 <div x-data="{ open: false }">
     <button class="font-bold py-2 px-6 rounded" @click="open = true" style="border:1px solid gray;">Click to reveal Secret Clue when directed</button>
     <p x-show="open">
-        <img src="/content/images/hello.jpg" />
+        <img src="/content/images/clue_two.png" />
     </p>
 </div>

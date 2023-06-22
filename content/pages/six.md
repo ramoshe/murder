@@ -12,11 +12,4 @@ The police have arrived. You know that your secrets will soon be exposed so you 
 
 ---
 
-<script src="//unpkg.com/alpinejs" defer></script>
-
-<div x-data="{ open: false }">
-    <button class="font-bold py-2 px-6 rounded" @click="open = true" style="border:1px solid gray;">Click to reveal Secret Clue when directed</button>
-    <p x-show="open">
-        <img src="/content/images/hello.jpg" />
-    </p>
-</div>
+#### Go to the [Accusation Form](/accusation) when you are ready to submit your solution to the mystery.
