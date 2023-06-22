@@ -13,7 +13,7 @@ eleventyNavigation:
 
 Elizabeth’s estranged sister from New Jersey, she and her husband were traveling on vacation when Vicki decided to drop by Killingsworth Farm for a visit…a surprise visit.
 
-*Costume Suggestion:* Short skirt, tight, low-cut blouse, high heels, chunky jewelry, big hair, tabloid magazine in hand
+*Costume Suggestion:* Short skirt, tight low-cut blouse, high heels, chunky jewelry, big hair, tabloid magazine in hand
 
 ## Norman D’Adly &nbsp;&nbsp; *(played by Mclovnredmst)*
 
@@ -31,13 +31,13 @@ Best friend to Elizabeth, this local librarian and historian has a flare for the
 
 This real estate developer from New York arrived unannounced with plans to buy Killingsworth Farms and develop it into a low-cost housing community. His boss ordered him to obtain Killingsworth at any cost…
 
-*Costume Suggestion:* Charcoal business suit, confident tie flashy watch, dark sunglasses, conservative hair, mobile phone in hand
+*Costume Suggestion:* Charcoal business suit, confident tie, flashy watch, dark sunglasses, conservative hair, mobile phone in hand
 
 ## Dr. Chelsea Barren &nbsp;&nbsp; *(played by RadiantMoon)*
 
 After suffering a nervous breakdown, this psychiatrist and near-best-selling author moved to Northern California to relax…but she moved next door to the Killingsworths instead.
 
-*Costume Suggestion:* Sophisticate pantsuit, colorful blouse, sensible shoes, expensive jewelry, disheveled hair, notepad and pen in hand
+*Costume Suggestion:* Sophisticated pantsuit, colorful blouse, sensible shoes, expensive jewelry, disheveled hair, notepad and pen in hand
 
 ## Enrique Graves &nbsp;&nbsp; *(played by Dalton)*
 

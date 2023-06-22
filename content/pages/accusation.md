@@ -46,11 +46,11 @@ eleventyNavigation:
 </style>
 
 <p>Use this form to submit your guess at the solution to the murder mystery.</p>
-<p>After all forms are submitted, the confession round will ensue. The party host will read all accusations and determine the winner by who is closest to the truth.</p>
+<p>After all forms are submitted, the confession round will begin. The party host will then read all accusations and determine the winner by who got closest to the truth.</p>
 <hr>
 <div class="form-style-2">
   <form name="accusation" method="POST" netlify>
-    <label for="name"><span>Your Name:</span><input type="text" name="name" /></label>
+    <label><span>Your Name:</span><input type="text" name="name" /></label>
     <label><span>Whodunnit?</span><select name="who">
       <option hidden disabled selected value> -- select an option -- </option>
       <option value="Dr. Chelsea Barren">Dr. Chelsea Barren</option>
