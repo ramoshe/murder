@@ -52,6 +52,7 @@ eleventyNavigation:
   <form name="accusation" method="POST" netlify>
     <label for="name"><span>Your Name:</span><input type="text" name="name" /></label>
     <label><span>Whodunnit?</span><select name="who">
+      <option hidden disabled selected value> -- select an option -- </option>
       <option value="Dr. Chelsea Barren">Dr. Chelsea Barren</option>
       <option value="Enrique Graves">Enrique Graves</option>
       <option value="Kathryn Lawless">Kathryn Lawless</option>
