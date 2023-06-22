@@ -51,13 +51,13 @@ eleventyNavigation:
 <div class="form-style-2">
   <form name="accusation" method="POST" netlify>
     <label for="name"><span>Your Name:</span><input type="text" name="name" /></label>
-    <label><span>Whodunnit?</span><select name="who[]">
-      <option value="leader">Dr. Chelsea Barren</option>
-      <option value="follower">Enrique Graves</option>
-      <option value="follower">Kathryn Lawless</option>
-      <option value="follower">Vicki D'Adly</option>
-      <option value="follower">Norman D'Adly</option>
-      <option value="follower">Michael Nightshade</option>
+    <label><span>Whodunnit?</span><select name="who">
+      <option value="Dr. Chelsea Barren">Dr. Chelsea Barren</option>
+      <option value="Enrique Graves">Enrique Graves</option>
+      <option value="Kathryn Lawless">Kathryn Lawless</option>
+      <option value="Vicki D'Adly">Vicki D'Adly</option>
+      <option value="Norman D'Adly">Norman D'Adly</option>
+      <option value="Michael Nightshade">Michael Nightshade</option>
     </select></label>
     <label><span>How?</span><textarea name="how"></textarea></label>
     <label><span>Why?</span><textarea name="why"></textarea></label>
