@@ -1,0 +1,21 @@
+{
+  "name": "Sour Grapes of Wrath",
+  "subtitle": "A murder mystery written by Michael Akers",
+  "description": "A murder mystery written by Michael Akers, presented online for virtual parties by theRamoShe.",
+  "footer": "Website presented by <a href=\"https://theramoshe.com\" class=\"footer-link\">theRamoShe</a>",
+  "url": "https://murder.ramo.live",
+  "githubUrl": "https://github.com/ramoshe/murdermystery",
+  "githubBranch": "main",
+  "navigationStyle": "vertical",
+  "emoji": "🔍",
+  "enableSearch": false,
+  "enableDarkMode": true,
+  "enableEditButton": false,
+  "enableDatestamp": false,
+  "enableGithubLink": false,
+  "enableContact": false,
+  "enableNetlifyCMS": false,
+  "enableComments": false,
+  "enableEncryption": false,
+  "enablePageNavigation": true
+}
