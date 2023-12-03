@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /five/index.html
 eleventyNavigation:
   key: Five
-  order: 9
+  order: 8
   title: Round Five
   parent: Game
 ---

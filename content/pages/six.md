@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /six/index.html
 eleventyNavigation:
   key: Six
-  order: 10
+  order: 9
   title: Round Six
   parent: Game
 ---

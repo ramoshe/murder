@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /accusation/index.html
 eleventyNavigation:
   key: Accusation
-  order: 11
+  order: 10
   title: Accusation Form
 ---
 

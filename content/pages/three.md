@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /three/index.html
 eleventyNavigation:
   key: Three
-  order: 7
+  order: 6
   title: Round Three
   parent: Game
 ---

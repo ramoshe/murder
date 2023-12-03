@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /four/index.html
 eleventyNavigation:
   key: Four
-  order: 8
+  order: 7
   title: Round Four
   parent: Game
 ---

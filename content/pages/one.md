@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /one/index.html
 eleventyNavigation:
   key: One
-  order: 5
+  order: 4
   title: Round One
   parent: Game
 ---

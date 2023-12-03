@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /game/index.html
 eleventyNavigation:
   key: Game
-  order: 4
+  order: 3
   title: The Secret Clues
 ---
 

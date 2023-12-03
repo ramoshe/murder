@@ -4,9 +4,8 @@ date: Last Modified
 permalink: /credits/index.html
 eleventyNavigation:
   key: Credits
-  order: 3
+  order: 11
   title: Credits
-  parent: Welcome
 ---
 This game was created entirely by Michael Akers, and has been generously offered for free download on his website [at this link](http://www.whodunitmysteries.com/sour.html). All story and writing credit goes to Michael Akers.
 

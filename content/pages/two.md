@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /two/index.html
 eleventyNavigation:
   key: Two
-  order: 6
+  order: 5
   title: Round Two
   parent: Game
 ---
